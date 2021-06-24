@@ -14,7 +14,7 @@ Hi There <!-- Your title -->
 - I’m currently learning __Ruby__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a Network Technician before becoming a software engineer.
+- Fun-Fact: I was a Network Engineer before becoming a software engineer.
 - How to reach me: __feryreza85@gmail.com__
 
 ---
