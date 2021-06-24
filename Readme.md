@@ -4,12 +4,13 @@ Hi There <!-- Your title -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ferza17)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fery-aditya/)
 
+
 &nbsp;
 
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[PT Nyala Inovasi Properti](https://github.com/orgs/koala-proptech/dashboard)__.
+- I’m currently working on __[PT Nyala Inovasi Properti](https://github.com/orgs/koala-proptech)__.
 - I’m currently learning __Ruby__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
