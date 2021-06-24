@@ -22,23 +22,31 @@ Hi There <!-- Your title -->
 **Languages and Tools:**
 
 <p>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+  <br />
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-    <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>    
-    <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
-    <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-    <code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-    <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-    <code><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>  
+    <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
   <br />
     <code><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-    <code><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-    <code><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
   <br/>
+    <code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+  <br />
+    <code><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+  <br />
     <code><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
