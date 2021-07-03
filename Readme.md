@@ -11,7 +11,7 @@ Hi There <!-- Your title -->
 **About Me:**
 
 - I’m currently working on __[PT Nyala Inovasi Properti](https://github.com/orgs/koala-proptech)__.
-- I’m currently learning __Ruby__.
+- I’m currently learning __Kafka__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a Network Engineer before becoming a software engineer.
