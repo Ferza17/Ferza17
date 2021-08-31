@@ -10,7 +10,7 @@ Hi There <!-- Your title -->
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[PT Nyala Inovasi Properti](https://github.com/orgs/koala-proptech)__.
+- I’m currently working on __[PT Maju Gemilang Indotech](https://mgindotech.com/)__.
 - I’m currently learning __Kafka__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
