@@ -10,6 +10,7 @@ Hi There <!-- Your title -->
 <!-- Talking about you -->
 **About Me:**
 
+- I am currently work at __[PT. Saka Uniti Indonesia](https://gokomodo.co/)__
 - I am open to freelance backend developers.
 - I’m currently learning __Kafka__.
 - I’m looking to collaborate on anything!
