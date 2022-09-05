@@ -53,4 +53,5 @@ Hi There <!-- Your title -->
     <code><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/jaegertracingio/jaegertracingio-ar21.svg"></code>
 </p>
