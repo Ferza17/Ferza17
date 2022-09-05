@@ -42,7 +42,6 @@ Hi There <!-- Your title -->
   <br />
     <code><img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-    <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <br />
@@ -50,4 +49,8 @@ Hi There <!-- Your title -->
     <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+  <br />
+    <code><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg"></code>
 </p>
