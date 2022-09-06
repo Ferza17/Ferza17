@@ -12,7 +12,7 @@ Hi There <!-- Your title -->
 
 - I am currently work at __[PT. Saka Uniti Indonesia](https://gokomodo.co/)__
 - I am open to freelance backend developers.
-- I’m currently learning __Kafka__.
+- I’m currently learning __SAGA Pattern__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a Network Engineer before becoming a software engineer.
