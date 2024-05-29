@@ -11,7 +11,6 @@ Hi There <!-- Your title -->
 **About Me:**
 
 - I am currently working as a Business Owner and Software Engineer.
-- I’m currently learning __Kubernetes__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, and I am happy to help.
 - Fun-Fact: I was a Network Engineer before becoming a software engineer.
