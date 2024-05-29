@@ -10,11 +10,10 @@ Hi There <!-- Your title -->
 <!-- Talking about you -->
 **About Me:**
 
-- I am currently work at __[PT. Saka Uniti Indonesia](https://gokomodo.co/)__
-- I am open to freelance as Software Engineer Backend.
+- I am currently working as a Business Owner and Software Engineer.
 - I’m currently learning __Kubernetes__.
 - I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
+- Ask me about anything, and I am happy to help.
 - Fun-Fact: I was a Network Engineer before becoming a software engineer.
 - How to reach me: __feryreza85@gmail.com__
 
