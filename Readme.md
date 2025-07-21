@@ -30,6 +30,8 @@ Hi There <!-- Your title -->
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>  
     <code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg"></code>
+    <code><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21~bgwhite.svg"></code
   <br />
     <code><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
     <code><img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
