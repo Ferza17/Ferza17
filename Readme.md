@@ -88,6 +88,7 @@ Hi There <!-- Your title -->
 ![](https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21~bgwhite.svg)
 ---
+![](https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg)
