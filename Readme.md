@@ -26,6 +26,8 @@ Hi There <!-- Your title -->
 ![](https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/javascript/javascript-ar21~bgwhite.svg)
+![](https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg)
+![](https://www.vectorlogo.zone/logos/php/php-horizontal.svg)
 ---
 **Databases:** \
 \
@@ -89,7 +91,11 @@ Hi There <!-- Your title -->
 ![](https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21~bgwhite.svg)
 ---
 ![](https://www.vectorlogo.zone/logos/springio/springio-ar21~bgwhite.svg)
+![](https://www.vectorlogo.zone/logos/laravel/laravel-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21~bgwhite.svg)
+![](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21~bgwhite.svg)
+![](https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg)
+---
 ![](https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21~bgwhite.svg)
 ![](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21~bgwhite.svg)
 ---
